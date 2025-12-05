@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750274790",
+    "project_id": "remote-tv-controller-db9ae",
+    "storage_bucket": "remote-tv-controller-db9ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750274790:android:010c9c1acf2cd857c91327",
+        "android_client_info": {
+          "package_name": "com.example.remote_controller_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnFpuRia67mhSY_oj9uCpYbhIA8wnBzVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
